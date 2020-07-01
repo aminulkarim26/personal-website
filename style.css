@@ -1,0 +1,88 @@
+body
+{margin: 0;
+    font-family: 'Pangolin', cursive;
+}
+h1{
+    font-size: 50px;
+    color: red;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.banner-section{
+    width: 500 ;
+    height:527 ;
+}
+
+.half-width img  {
+    width : 100%;
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color : white;
+    font-weight:700;
+}    
+
+.banner-section{
+
+background-image:url("images/header-bg.png");
+height:500px;
+padding-bottom: 150px;
+
+}
+h2{
+    padding-top: 30%;
+}
+.second-banner-section{
+background-image:url("images/biography-bg.png");
+height:500px;
+padding-bottom: 150px;
+}
+
+
+.ls{
+  text-align: center;
+  padding-top: 4%;
+  font-size: larger;
+}
+
+.column1 {
+    float: left;
+    width: 20%;
+    padding: 5px;
+    margin-left: 150px;
+  }
+
+  .column2 {
+    float: left;
+    width: 20%;
+    padding: 5px;
+    margin-left: 110px;
+    margin-right: 100px;
+
+  }
+
+  .column3 {
+    float: right;
+    width: 20%;
+    padding: 10px;
+    margin-right:200px;
+  
+ } 
+.third-banner-section{
+ background-image:url("images/latest-work-bg.png");
+ height:300px;
+ padding-bottom: 150px;
+ }
+ 
+
+
