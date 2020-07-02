@@ -84,5 +84,46 @@ padding-bottom: 150px;
  padding-bottom: 150px;
  }
  
+.lastsection{
+    background-image:url("footer-bg.png");
+    width: 100%;
+    height: 1000px;
+    padding-bottom: 100px;
+}
+.fullheight{
+    text-align: center;
+    padding-top: 15%;
+}
+
+#ref{
+    text-emphasis:bold;
+    font-size: 200%;
+}
+#ref2{
+    text-emphasis: bold;
+    font-size: 150%;
+}
+
+.rectangle {
+    border-top-left-radius:15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 120px;
+    width: 650px;
+    margin-left: 28%;
+    margin-bottom: 200px;
+    margin-right: 26%;
+    margin-top: 4%;
+    background-color:rgb(238, 67, 67);
+    text-overflow: inherit;
+    text-align: center;
+}
+
+.lastline{
+    text-align: center;
+    font-size: 10 px;
+    text color:black;
+}
 
 
